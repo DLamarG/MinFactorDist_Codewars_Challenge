@@ -1,0 +1,1 @@
+# MinFactorDist_Codewars_Challenge
